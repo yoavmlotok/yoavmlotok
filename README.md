@@ -1,4 +1,5 @@
 - 👋 Hi, my name is Yoav Mlotok
-- 👀 I’m interested in game development
-- 🤝 I'm a part of a robotics team called 'Apollo 9662' from the FTC (FIRST Tech Challenge) program
+- 👀 I’m interested in game development and computer graphics 
+- ⌨️ I know the programming languages C++ and Java
+- 🤝 I'm a part of a robotics team called 'Connection 11808' from the FTC (FIRST Tech Challenge) program
 - 📫 How to reach me: yoavmlotok@icloud.com
