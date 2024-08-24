@@ -2,5 +2,5 @@
 - 👀 I’m interested in game development, computer graphics, linux and cybersecurity
 - ⌨️ I code using the Rust programming language, but have used both Java and Kotlin in the past for the following reason:
 - 🤝 Was the programming lead of a robotics team called 'Connection 11808' from the FTC (FIRST Tech Challenge) program
-- 📫 Reach me with mail: yoavmlotok@icloud.com
+- 📫 Reach me with mail: contact@yoavmlotok.dev
 - 🕸️ My non-existant website: yoavmlotok.dev
