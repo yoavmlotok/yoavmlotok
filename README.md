@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Yoav Mlotok
-- 👀 I’m interested in game development, computer graphics, linux, and cybersecurity
-- ⌨️ I code using Rust, Java, and Kotlin
+- 👀 I’m interested in game development, computer graphics, linux, systems development, and cybersecurity
+- ⌨️ I code with Rust, C, and Java
 - 🤝 Previously the programming lead of a robotics team called 'Connection 11808' from the [FTC](https://www.firstinspires.org/robotics/ftc) program
 - 📫 Reach me by mail: contact@yoavmlotok.dev
-- 🕸️ My website: www.yoavmlotok.dev
+- 🕸️ Visit my website: www.yoavmlotok.dev
